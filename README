@@ -1,2 +1,2 @@
 This is the code that is used in my Data analytics project that I used to generate the dashboard seen on Tableau. The code is in Python and I used the pandas library. 
-I also have the original data set in sample_-_superstore.xls and the cleaned dataset in cleanedsuperstore.xlsx. 
+I also have the original data set in sample_-_superstore.xls and the cleaned dataset in cleanedsuperstore.xlsx. The dashboard from Tableau is saved as dashboard 1.png
