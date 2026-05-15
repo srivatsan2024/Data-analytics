@@ -1,4 +1,7 @@
 This is the code that is used in my Data analytics project that I used to generate the dashboard seen on Tableau. The code is in Python and I used the pandas library. 
 I also have the original data set in sample_-_superstore.xls and the cleaned dataset in cleanedsuperstore.xlsx. The dashboard from Tableau is saved as dashboard 1.png
-I also have more works in Tableau which involves spreadsheets from my tuition and donor spreadsheets. This project is a showcase of my ability to clean and generate models
-on Tableau accordingly.
+The project was that I would take the data given in sample_-_superstore.xls which is data of customers in a superstore. With the data, I am tasked to find out which regions
+do best, which products are profitable, and the behavior of customers like the top customers of this superstore and sales trends. In the python code, I cleaned the data set,
+then removed duplicate variables, convet orders into date and time format, and finally create new columns. After all this, I performed analysis based on the set out goals,
+and I generated graphs based on the analysis. My final graphs were generated with Tableau and they are displayed in dashboard 1.png. I also have more works in Tableau which 
+involves spreadsheets from my tuition and donor spreadsheets. This project is a showcase of my ability to clean and generate models on Tableau accordingly.
