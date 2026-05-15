@@ -3,5 +3,6 @@ I also have the original data set in sample_-_superstore.xls and the cleaned dat
 The project was that I would take the data given in sample_-_superstore.xls which is data of customers in a superstore. With the data, I am tasked to find out which regions
 do best, which products are profitable, and the behavior of customers like the top customers of this superstore and sales trends. In the python code, I cleaned the data set,
 then removed duplicate variables, convet orders into date and time format, and finally create new columns. After all this, I performed analysis based on the set out goals,
-and I generated graphs based on the analysis. My final graphs were generated with Tableau and they are displayed in dashboard 1.png. I also have more works in Tableau which 
-involves spreadsheets from my tuition and donor spreadsheets. This project is a showcase of my ability to clean and generate models on Tableau accordingly.
+and I generated graphs based on the analysis. My final graphs were generated with Tableau and they are displayed in dashboard 1.png. The cleaned dataset is stored in 
+cleanedsuperstore.xlsx. I also have more works in Tableau which involves spreadsheets from my tuition and donor spreadsheets. This project is a showcase of my ability to 
+clean and generate models on Tableau accordingly.
